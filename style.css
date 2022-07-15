@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+p{  
+  font-family: sans-serif;
+  font-weight: bolder;
+  position: absolute;
+    top: 252px;
+    left: 655px;
+}
